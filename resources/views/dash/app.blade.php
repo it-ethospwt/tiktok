@@ -40,8 +40,7 @@
                             <div class="col-12 col-md-6 order-md-2 order-first">
                                 <nav aria-label="breadcrumb" class="breadcrumb-header float-start float-lg-end">
                                     <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Layout Vertical Navbar
+                                        <li class="breadcrumb-item"><a href="dashboard">Dashboard</a></li>
                                         </li>
                                     </ol>
                                 </nav>
@@ -58,7 +57,7 @@
 
                                         <input type="file" name="file" accept=".pdf" class="form-control" required>
                                         <button id="success" type="submit"
-                                            class="btn btn-primary rounded-pill mt-2">Upload</button>
+                                            class="btn btn-primary rounded-pill mt-3">Upload</button>
                                     </form>
 
                                 </div>
